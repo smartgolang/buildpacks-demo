@@ -1,2 +1,2 @@
-# buildpacks-demo
-Go with
+# go-buildpacks-demo
+Go with buildpacks.
